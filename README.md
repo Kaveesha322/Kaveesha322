@@ -27,3 +27,8 @@ Kaveesha's GitHub Activity Graph
 | ![Kaveesha's github stats](https://github-readme-stats.vercel.app/api?username=Kaveesha322&show_icons=true&theme=tokyonight) | ![Kaveesha GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaveesha322&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveesha322&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Kaveesha322&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Support Me"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support Me" /></a></p><br><br>
+
