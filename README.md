@@ -5,6 +5,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaveesha322&label=Profile%20views&color=0e75b6&style=flat" alt="kaveesha322" /> </p>
 
+---
+
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Java**
